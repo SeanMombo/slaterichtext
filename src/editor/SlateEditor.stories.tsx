@@ -1,5 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react';
 import SlateEditor from './SlateEditor';
+import './SlateEditor.css';
 
 const meta = {
   title: 'Components/SlateEditor',
